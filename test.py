@@ -9,5 +9,3 @@ print("hello world wlb8");
 print("hello world wlb9");
 print("hello world wlb10");
 print("hello world wlb11");
-print("hello world wlb12");
-print("hello world wlb13");
