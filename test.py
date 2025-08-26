@@ -7,5 +7,5 @@ print("hello world wlb6");
 print("hello world wlb7");
 print("hello world wlb8");
 print("hello world wlb9");
-print("hello world wlb10");
-print("hello world wlb11");
+print("hello world weisoft");
+print("hello world weisfot");
